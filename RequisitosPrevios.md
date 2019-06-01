@@ -6,4 +6,4 @@ Una vez instalado tendremos que configurar nuestra placa, en este caso la __Node
 
 Por último, la numeración de los pines en la placa no se corresponden con el número de pin en el IDE, para ello tendremos que recurrir a un esquema para conectar correctamente los componentes.
 
-[Volver al índice](Index.md)
+[Volver al índice](readme.md)
