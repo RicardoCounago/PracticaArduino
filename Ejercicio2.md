@@ -44,7 +44,7 @@ Una vez testeado montamos el circuito en la __placa de prototipado__, realizamos
 
 Una vez subido el código se ejecutará automáticamente.
 
-[Enlace al vídeo del resultado en YouTube.](https://www.youtube.com/watch?v=6PnX7DMUtBI&feature=youtu.be)
+__[Enlace al vídeo del resultado en YouTube.](https://www.youtube.com/watch?v=6PnX7DMUtBI&feature=youtu.be)__
 
 A partir de este montaje provaremos versiones distintas del software.
 
@@ -109,7 +109,7 @@ void loop() {
 }
 ```
 
-[Enlace al vídeo del resultado en YouTube.](https://www.youtube.com/watch?v=a5tkJRlMbxE&feature=youtu.be)
+__[Enlace al vídeo del resultado en YouTube.](https://www.youtube.com/watch?v=a5tkJRlMbxE&feature=youtu.be)__
 
 Y por último haremos que las luces se enciendan de forma alterna, cuanto el led 1 y 3 se encienden el led 2 se apagará y viceversa.
 
@@ -140,6 +140,8 @@ void loop() {
 }
 ```
 
-[Enlace al vídeo del resultado en YouTube.](https://www.youtube.com/watch?v=nlrVwDGPY7Y&feature=youtu.be)
+__[Enlace al vídeo del resultado en YouTube.](https://www.youtube.com/watch?v=nlrVwDGPY7Y&feature=youtu.be)__
 
-[Volver al índice](Index.md)
+[Volver al índice](readme.md)
+
+[Siguiente ejercicio](Ejercicio3.md)
