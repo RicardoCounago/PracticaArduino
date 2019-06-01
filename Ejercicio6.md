@@ -64,6 +64,8 @@ Una vez testeado montamos el circuito en la __placa de prototipado__, realizamos
 
 Una vez subido el código se ejecutará automáticamente.
 
+Para esta práctica deberemos ver en la __consola__ del IDE de arduino para observar el resultado, en ella se mostrarán los valores obtenidos por el sensor.
+
 __[Enlace al vídeo del resultado.](https://www.youtube.com/watch?v=37LEM_2rN6g&feature=youtu.be)__
 
 [Volver al índice](readme.md)
