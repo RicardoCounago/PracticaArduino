@@ -8,4 +8,4 @@
 3. [Ejercicio 3](Ejercicio3.md)
 4. [Ejercicio 4](Ejercicio4.md)
 5. [Ejercicio 5](Ejercicio5.md)
-6. [Ejercicio 6](Ejercicio5.md)
+6. [Ejercicio 6](Ejercicio6.md)
