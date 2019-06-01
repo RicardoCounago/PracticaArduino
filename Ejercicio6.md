@@ -64,6 +64,6 @@ Una vez testeado montamos el circuito en la __placa de prototipado__, realizamos
 
 Una vez subido el código se ejecutará automáticamente.
 
-[Enlace al vídeo del resultado.](https://www.youtube.com/watch?v=37LEM_2rN6g&feature=youtu.be)
+__[Enlace al vídeo del resultado.](https://www.youtube.com/watch?v=37LEM_2rN6g&feature=youtu.be)__
 
-[Volver al índice](Index.md)
+[Volver al índice](readme.md)
